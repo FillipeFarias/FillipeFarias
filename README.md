@@ -1,9 +1,8 @@
 ### Olá, eu sou Fillipe Farias
 
 
-- 🔭  Estou  atualmente cursando de lógica de programação pela Factura
+- 🔭  Estou  atualmente cursando na Factura Cursos
 - 🌱 Estou aprendendo Java <3
-- 😄 Pronomes: Ele/Dele
 
 - 
   <a href="https://github.com/FillipeFarias">
