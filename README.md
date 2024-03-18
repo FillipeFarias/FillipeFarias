@@ -14,7 +14,7 @@
   
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="rails" height = "30" width = "40" style="max-width:100%;"></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="rails" height = "30" width = "40" style="max-width:100%;"></img>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="rails" height = "30" width = "40" style="max-width:100%;"></img>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="rails" height = "30" width = "40" style="max-width:100%;"></img>
   
   ##
   
