@@ -2,7 +2,7 @@
 
 
 - 🔭  Estou  atualmente cursando na Factura Cursos
-- 🌱 Estou aprendendo Java <3
+- 🌱 Eterno aprendiz de Java <3
 
 - 
   <a href="https://github.com/FillipeFarias">
